@@ -39,9 +39,9 @@
 <p align="center">
 
   
-<a href="https://www.linkedin.com/in/suvodeep-das-9541aa20a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Suvodeep%20Das?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/suvodeep-das-9541aa20a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Suvodeep%20Das-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.facebook.com/SuvodeepDas952"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Suvodeep%20Das?style=flat-square&logo=facebook"></a>
+<a href="https://www.facebook.com/SuvodeepDas952"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Suvodeep%20Das-black?style=flat-square&logo=facebook"></a>
 
 <a href="suvodeep568@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-suvodeep568@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
