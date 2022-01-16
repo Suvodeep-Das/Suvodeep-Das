@@ -43,7 +43,7 @@
 
 <a href="https://www.facebook.com/SuvodeepDas952"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Suvodeep%20Das-black?style=flat-square&logo=facebook"></a>
 
-<a href="suvodeep568@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-suvodeep568@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:suvodeep568@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-suvodeep568@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
