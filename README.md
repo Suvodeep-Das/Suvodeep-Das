@@ -26,7 +26,7 @@
 
 <h3>📈 My GitHub Stats</h3>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/?username=Suvodeep-Das&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/?username=Suvodeep-Das&show_icons=true&icon_color=f03c15&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 
 
