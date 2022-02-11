@@ -26,9 +26,9 @@
 
 <h3>📈 My GitHub Stats</h3>
 
-[!(https://github-readme-stats.vercel.app/api/?username=Suvodeep-Das&show_icons=true&icon_color=1589F0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Suvodeep-Das&show_icons=true&icon_color=1589F0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)]
 
-  [!(https://github-readme-stats.vercel.app/api/top-langs/?username=Suvodeep-Das&layout=compact)](https://github.com/Suvodeep-Das/github-readme-stats) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suvodeep-Das&layout=compact)](https://github.com/Suvodeep-Das/github-readme-stats) 
 
 
 
