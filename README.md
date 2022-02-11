@@ -24,7 +24,7 @@
 
 📈 My GitHub Stats
 
-<p align="center"> !(https://github-readme-stats.vercel.app/api?username=Suvodeep-Das&theme=radical)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Suvodeep-Das&show_icons=true&theme=gotham" alt="mitul3737" />
 
 
 
