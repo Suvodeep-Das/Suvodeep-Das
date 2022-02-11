@@ -24,7 +24,7 @@
 
 
 
-<h4>📈 My GitHub Stats</h4>
+<h3>📈 My GitHub Stats</h3>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Suvodeep-Das&show_icons=true&theme=gotham" alt="mitul3737" />
 
