@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Suvodeep</h2>
+<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Suvodeep Das</h1>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -20,6 +20,8 @@
 
 
 - 💻 &nbsp; Python | C++ | C 
+
+
 
 
 📈 My GitHub Stats
