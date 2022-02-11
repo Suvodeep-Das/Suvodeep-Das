@@ -15,14 +15,11 @@
 
 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🧰 Languages and Tools</h3>
 
-
-
-- 💻 &nbsp; Python | C++ | C 
-
-
-
+<p align="center">
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+</p>
 
 <h3>📈 My GitHub Stats</h3>
 
