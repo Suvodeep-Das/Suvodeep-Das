@@ -39,7 +39,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suvodeep-Das&layout=compact)](https://github.com/Suvodeep-Das/github-readme-stats) 
 
-
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <hr>
 
