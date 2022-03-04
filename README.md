@@ -72,3 +72,8 @@
 
 
 <hr>
+## ❤ Views and Followers
+<a href="https://github.com/Suvodeep-Das/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Suvodeep-Das">
+</a>
+<a href="https://github.com/Suvodeep-Das?tab=followers"><img src="https://img.shields.io/github/followers/Suvodeep-Das?label=Followers&style=social" alt="GitHub Badge"></a>
