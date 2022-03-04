@@ -28,6 +28,8 @@
 
 <h3>📈 My GitHub Stats</h3>
 
+<p align="center"> <a href="https://github.com/Suvodeep-Das/github-readme-streak-stats"> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suvodeep Das's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Suvodeep-Das&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> </a> </p>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Suvodeep-Das&show_icons=true&icon_color=1589F0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suvodeep-Das&layout=compact)](https://github.com/Suvodeep-Das/github-readme-stats) 
