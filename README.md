@@ -26,14 +26,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="HTML" width="40px"/>
 </p>
 <p align="center">
-    <a href="https://github.com/Suvodeep-Das/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suvodeep Das's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Suvodeep-Das&theme=onedark&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    
 </p>
 
 <h3>📈 My GitHub Stats</h3>
 
-
+<a href="https://github.com/Suvodeep-Das/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suvodeep Das's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Suvodeep-Das&theme=onedark&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Suvodeep-Das&show_icons=true&icon_color=1589F0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
