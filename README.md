@@ -50,7 +50,7 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <h3 align="left">Activity Graph:</h3>
-<a href="https://github.com/Suvodeep-Das/github-readme-activity-graph"><img alt="Suvodeep's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Suvodeep-Das&bg_color=FFFFFF&color=2732e9&line=2732e9&point=f73030&hide_border=true" /></a>
+<a href="https://github.com/Suvodeep-Das/github-readme-activity-graph"><img alt="Suvodeep's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Suvodeep-Das&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <hr>
 
