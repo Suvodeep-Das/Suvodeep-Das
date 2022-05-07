@@ -4,7 +4,7 @@
     <img src="https://github.com/Suvodeep-Das/Suvodeep-Das/blob/main/gitartwork.svg" />
 </p>  
 
-<img align='right' src="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh</p>" width="230">
+<img align='right' src="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
