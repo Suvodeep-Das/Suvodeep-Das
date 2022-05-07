@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Suvodeep Das</h1>
 
-<p align="left">
+<p align="center">
     <img src="https://github.com/Suvodeep-Das/Suvodeep-Das/blob/main/gitartwork.svg" />
 </p>  
 
