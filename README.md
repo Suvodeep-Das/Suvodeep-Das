@@ -1,5 +1,9 @@
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Suvodeep Das</h1>
 
+<p align="left">
+    <img src="https://github.com/Suvodeep-Das/Suvodeep-Das/blob/main/gitartwork.svg" />
+</p>  
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
