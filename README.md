@@ -11,11 +11,11 @@
 
 
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at Institute of Engineering & Management, Kolkata.
+- 🎓 &nbsp; 2nd year Computer Science and Engineering at Institute of Engineering & Management, Kolkata with an overall CGPA of 9.82.
 
-- 🌱 &nbsp; Grasping Machine Learning in Python and Data Science in C++.
+- 🌱 &nbsp; Inclined towards Machine Learning and Data Science.
 
-- 🤔 &nbsp; Interested in new technologies.
+- 😊 &nbsp; Love contributing to Open Source projects.
 
 
 
