@@ -13,7 +13,7 @@
 
 - 🎓 &nbsp; 2nd year Computer Science and Engineering student at Institute of Engineering & Management, Kolkata with an overall CGPA of 9.82.
 
-- 🌱 &nbsp; Inclined towards Machine Learning and Data Science.
+- 🌱 &nbsp; Inclined towards Machine Learning, Data Science, Deep Learning and Natural Language Processing.
 
 - 😊 &nbsp; Love contributing to Open Source projects.
 
