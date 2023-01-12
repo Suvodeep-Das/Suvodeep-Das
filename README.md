@@ -11,7 +11,7 @@
 
 
 
-- 🎓 &nbsp; 2nd year Computer Science and Engineering student at Institute of Engineering & Management, Kolkata with an overall CGPA of 9.67.
+- 🎓 &nbsp; 3rd year Computer Science and Engineering student at Institute of Engineering & Management, Kolkata with an overall CGPA of 9.67.
 
 - 🌱 &nbsp; Inclined towards Machine Learning, Data Science, Deep Learning and Natural Language Processing.
 
