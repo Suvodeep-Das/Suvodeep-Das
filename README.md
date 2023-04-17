@@ -51,10 +51,6 @@
 [![Suvodeep Das GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Suvodeep-Das&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph)
 
 
-<h3 align="left">Activity Graph:</h3>
-<a href="https://github-readme-activity-graph.cyclic.app/graph?username=Suvodeep-Das&theme=github-compact"><img alt="Suvodeep's Activity Graph" src="https://github.com/PrinceSinghHub/github-readme-activity-graph" /></a>
-
-<hr>
 
 
 
