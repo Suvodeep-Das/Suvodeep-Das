@@ -33,6 +33,7 @@
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/SharePoint-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
 
 
 
