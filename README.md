@@ -45,7 +45,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Suvodeep-Das&show_icons=true&icon_color=1589F0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suvodeep-Das&layout=compact)](https://github.com/Suvodeep-Das/github-readme-stats) 
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Suvodeep-Das&show_icons=true&locale=en&layout=compact&theme=blue-green" width="680" alt="debamitr1012" /> | [![Suvodeep Das GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Suvodeep-Das&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph) | 
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
