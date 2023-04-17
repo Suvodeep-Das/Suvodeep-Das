@@ -22,18 +22,25 @@
 <h3>🧰 Languages and Tools</h3>
 
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/C-14354C?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/JAVA-14354C?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/SQL-14354C?style=for-the-badge&logo=sql&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/scikit%20learn-FF8282?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/FLASK-14354C?style=for-the-badge&logo=flask&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/VSCODE-14354C?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=excel&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-342B029.svg?&style=for-the-badge&logo=github&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/MySQL-27338e?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/SharePoint-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Wordpress-27338e?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/SharePoint-14354C?style=for-the-badge&logo=sharepoint&logoColor=white)&nbsp;&nbsp;
 
 
 
