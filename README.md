@@ -41,7 +41,10 @@
 ![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Wordpress-27338e?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/SharePoint-14354C?style=for-the-badge&logo=sharepoint&logoColor=white)&nbsp;&nbsp;
-
+![image](https://img.shields.io/badge/Power%20Virtual%20Agents-F9AB00?style=for-the-badge&logo=power%20virtual%20agents&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Power%20Bi-27338e?style=for-the-badge&logo=powerbi&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Power%20Apps-27338e?style=for-the-badge&logo=power%20apps&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Power%20Automate-27338e?style=for-the-badge&logo=power%20automate&logoColor=white)&nbsp;&nbsp;
 
 
 <h3>📈 My GitHub Stats</h3>
