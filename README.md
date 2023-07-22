@@ -53,7 +53,7 @@
 ![image](https://img.shields.io/badge/Power%20Automate-27338e?style=for-the-badge&logo=power%20automate&logoColor=white)&nbsp;&nbsp;
 
 
-<h3>📈 My GitHub Stats</h3>
+<!--<h3>📈 My GitHub Stats</h3>
 
 <a href="https://github.com/Suvodeep-Das/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suvodeep Das's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Suvodeep-Das&theme=onedark&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -65,7 +65,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Suvodeep-Das&show_icons=true&locale=en&layout=compact&theme=blue-green" width="500" alt="Suvodeep-Das" />
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-[![Suvodeep Das GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suvodeep-Das&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Suvodeep Das GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suvodeep-Das&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 
