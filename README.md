@@ -41,6 +41,8 @@
 ![image](https://img.shields.io/badge/MySQL-27338e?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/HeidiSQL-27338e?style=for-the-badge&logo=heidisql&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/H2%20Database-342B029.svg?&style=for-the-badge&logo=h2%20database&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Eclipse-14354C?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Postman-14354C?style=for-the-badge&logo=postman&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/WordPress-27338e?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/SharePoint-14354C?style=for-the-badge&logo=share%20point&logoColor=white)&nbsp;&nbsp;
